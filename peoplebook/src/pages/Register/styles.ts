@@ -8,14 +8,14 @@ export const Container = styled.View`
 `;
 
 export const CadastroBtn = styled.TouchableOpacity`
-  width: 40%;
+  width: 50%;
   height: 55px;
   border-radius: 10px;
   background: #4ed918;
 
   justify-content: center;
   align-items: center;
-  margin: 0 33%;
+  margin: 0 26%;
 `;
 
 export const TextButton = styled.Text`
